@@ -1,0 +1,87 @@
+[center][url=https://www.github.com/expanse-org/mist/releases][img]http://i.imgur.com/h9bL2jH.png[/img][/url][/center]
+
+[b]Our Story[/b]
+Expanse.Tech™ was created as the first stable fork of Ethereum by one of the earliest blockchain developers and cryptocurrency entrepreneurs out there, Christopher Franko. Co-founder James Clayton is also the founder of the Cryptocurrency Collectors Club, (CCC), which is the largest and most popular Cryptocurrency group on Facebook. Dan Conway, another blockchain expert with extensive experience, soon joined the team as the third founder, bringing a great deal of talent, balance, and expertise to the project.
+
+Expanse was built as a community-based project without an ICO, (Initial Coin Offering), and is blockchain agnostic. The idea is to use cutting-edge blockchain technology to build anything the community and team can imagine—using a Decentralized Autonomous Organization, (DAO), with a self-funded design to keep it truly decentralized. This way, the Expanse community can evolve and grow while rewarding holders, partners, and investors.
+
+The Expanse platform now has a two-year history of consistent growth and stability. Starting out small, but with big ideas, the team is growing and other projects are now coming on board to help make the dream a reality—limited only by the imagination and talent of all the diverse people around the world involved in the journey. Each new community member and partner brings new ideas and visions for the future. Expanse.Tech plans to be one of the top blockchain projects in the world. Won’t you join us on this adventure? Start learning more about Expanse today!
+
+[b]Our Goal[/b]
+Our goals for Expanse are to create, a the most advanced forms of identity, governance, charity, commerce, and equity model. All the services work together to form the EXP.DAO. But also each piece can act as an individualized service.
+
+Identity - [url=http://www.borderless.tech]BIMS (borderless identity management system)[/url]
+Equity - [url=http://www.tokenlab.io]Token Lab[/url]
+Commerce - Escrow Lab
+Governance - DAO lab
+Charity - [url=http://www.borderlesscharity.org]Borderless Charity[/url]
+
+[b]Our Partners[/b]
+[table]
+[tr]
+[td][/td]
+[td][img width=150]http://www.expanse.tech/img/partners/azure.jpg[/img][/td]
+[td][img width=150]http://www.expanse.tech/img/partners/bizspark.jpg[/img][/td]
+[td][img width=150]http://www.expanse.tech/img/partners/centurylink.jpg[/img][/td]
+[td][img width=150]http://www.expanse.tech/img/partners/changelly.jpg[/img][/td]
+[td][img width=150]http://www.expanse.tech/img/partners/game-board.jpg[/img][/td]
+[td][img width=150]http://www.expanse.tech/img/partners/jaxx.jpg[/img][/td]
+[/tr]
+[/table]
+
+[b]Technical Stats[/b]
+[list]
+[li]Codebase: Ethereum[/li]
+[li]Algorithm: Dagger[/li]
+[li]Block Reward: 8[/li]
+[li]Block Target: 60 seconds[/li]
+[li]Listen Port: 42786[/li]
+[li][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Original Whitepaper[/url][/li]
+[li]Launch Date: 9/14/2015[/li]
+[/list]
+
+[B]Download binaries[/b]
+https://github.com/expanse-org/go-expanse
+https://github.com/expanse-org/mist
+
+[b]Pools Software[/b]
+https://github.com/ocminer/ethcore-pool-mpos
+https://github.com/expanse-org/expanse-proxy
+
+[b]Pools[/b]
+http://pool.expanse.tech
+https://exp.suprnova.cc/
+http://dwarfpool.com/exp
+http://pooleum.com/
+http://exp.akasha-pool.eu
+https://expanse.miningpoolhub.com
+http://clona.ru:8083/
+http://exp.digger.ws/
+
+[b]Exchanges[/b]
+https://poloniex.com/exchange#btc_exp
+https://www.bittrex.com/Market/Index?MarketName=BTC-EXP
+https://changelly.com/
+https://coinvc.com (China Yuan) 
+https://Litebit.eu (Euros)
+https://alcurex.com/#EXP-BTC
+https://bleutrade.com/exchange/EXP/BTC
+
+[b]Console Cheat Sheet[/b]
+[code]BlockHeight == exp.blockNumber
+nodeinfo == admin.nodeInfo
+peers == admin.peers
+addnode == admin.addPeer("enode://nodekey:ipaddress@port")
+send tx == exp.sendTransaction({from:exp.accounts[0], to:"0x…007", value: web3.toWei(1, "expanse")})
+getBalance == web3.fromWei(exp.getBalance(exp.coinbase), "expanse")
+Peercount == net.peerCount
+[/code]
+
+[b]Chain Stats[/b]
+How to join chainstats - https://bitcointalk.org/index.php?topic=1173722.msg12427609#msg12427609
+Stats - http://stats.expanse.tech/
+Gander.tech - http://www.gander.tech
+
+[b]Chat[/b]
+IRC - #expanse freenode
+SLACK - http://slack.expanse.tech/
